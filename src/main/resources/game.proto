@@ -1,0 +1,15 @@
+syntax="proto3";
+option java_package="ma.enset.stubs";
+
+service game{
+  rpc requestResponse(stream tentative) returns (stream respMsg);
+}
+
+message tentative{
+  string username=1;
+  double number=2;
+}
+
+message respMsg{
+  string content=1;
+}
