@@ -6,11 +6,11 @@
                 
   Test with Java Player :
                 
-      ![guess number](https://user-images.githubusercontent.com/110602716/228982065-53746b61-e620-4203-b2b2-de2202ee32fb.png)
+![guess number](https://user-images.githubusercontent.com/110602716/228982065-53746b61-e620-4203-b2b2-de2202ee32fb.png)
       
                 
                                 
   Test with BloomRPC :          
   
-    ![guess num](https://user-images.githubusercontent.com/110602716/228982010-0125ff83-69a5-480c-9a6f-7f4985f42245.png)
+![guess num](https://user-images.githubusercontent.com/110602716/228982010-0125ff83-69a5-480c-9a6f-7f4985f42245.png)
 
