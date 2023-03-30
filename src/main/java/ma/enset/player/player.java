@@ -8,8 +8,11 @@ import ma.enset.stubs.gameGrpc;
 
 import java.util.Scanner;
 
+import static java.lang.System.exit;
+import static java.lang.Thread.sleep;
+
 public class player {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         ManagedChannel managedChannel = ManagedChannelBuilder.forAddress("localhost", 5151)
                 .usePlaintext().build();
@@ -33,11 +36,12 @@ public class player {
 
             @Override
             public void onCompleted() {
-                return;
+                exit(0);
             }
         });
 
         while(true) {
+            sleep(1000);
             System.out.println("Try to find the Number: ");
             int number=scanner.nextInt();
             Game.tentative build = Game.tentative.newBuilder()

@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a10d248d-2527-43c2-a32b-49d660373f83" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/enset/player/player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/enset/player/player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,54 @@
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.player (1)">
+    <configuration name="player (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.enset.player.player" />
+      <module name="Number_Magic_Grpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.enset.player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.enset.player.player" />
+      <module name="Number_Magic_Grpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.enset.player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.enset.server.server" />
+      <module name="Number_Magic_Grpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.enset.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.player (1)" />
+        <item itemvalue="Application.server" />
+        <item itemvalue="Application.player" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +103,7 @@
       <updated>1680128960488</updated>
       <workItem from="1680128964224" duration="599000" />
       <workItem from="1680198415200" duration="3232000" />
-      <workItem from="1680212900499" duration="2321000" />
+      <workItem from="1680212900499" duration="3018000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680213899276</created>
@@ -70,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680214492575</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1680215499505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680215499505</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
